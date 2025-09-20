@@ -1,6 +1,8 @@
 
 # Capstone – Data Classification & Summarization (IBM Granite)
 
+##Granite NewsSense: Klasifikasi & Ringkasan Berita
+
 **Author:** Satria Putra Dharma Prayudha  
 **Program:** Student Development Initiative – Hacktiv8 × IBM SkillsBuild  
 **Deadline:** Minggu, 21 September 2025 | 23.59 WIB
