@@ -1,7 +1,7 @@
 
 # Capstone – Data Classification & Summarization (IBM Granite)
 
-##Granite NewsSense: Klasifikasi & Ringkasan Berita
+## Granite NewsSense: Klasifikasi & Ringkasan Berita
 
 **Author:** Satria Putra Dharma Prayudha  
 **Program:** Student Development Initiative – Hacktiv8 × IBM SkillsBuild  
