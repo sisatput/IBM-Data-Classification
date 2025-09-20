@@ -67,7 +67,7 @@ os.environ["REPLICATE_API_TOKEN"] = "PASTE_YOUR_TOKEN"
 1) Buka notebook di **Colab/WatsonX/LM Studio**.  
 2) Jalankan bagian load data + preprocess.  
 3) Jalankan **Granite Classification** (zero-/few-shot).  
-4) Jalankan **Summarization** (beberapa sampel).  
+4) Jalankan **Summarization** (beberapa sampel). 
 5) Jalankan **EDA & Evaluation** untuk menghasilkan distribusi kelas, boxplot, TF-IDF, Confusion Matrix, dan analisis ringkasan.  
 6) Simpan plot ke `reports/figures/`.
 
@@ -77,10 +77,3 @@ os.environ["REPLICATE_API_TOKEN"] = "PASTE_YOUR_TOKEN"
 **Few-shot**: tambahkan 3–5 contoh berlabel sebelum teks target.  
 **Summarization – Instruction**
 > Summarize the following text into concise bullet points capturing key facts, entities, sentiment cues, and actionable insights.
-
-## 11) Submission (Sesuai Brief)
-1) **GitHub Repository**: notebook analytics; **raw dataset** (atau **link** publik); **README** (judul, overview, dataset link, **insight & findings**, **AI support**).  
-2) **Link Notebook**: Colab/WatsonX/LM Studio (akses publik).  
-3) **File Presentasi (PPT/Slide/PDF)**: judul; **dataset link**; overview & proses; **insight & visual**; **kesimpulan & rekomendasi**; **AI support explanation**.  
-4) **Form Submission**: https://bit.ly/SDIProjectData  
-5) **Deadline**: Minggu, 21 September 2025 | 23.59 WIB
